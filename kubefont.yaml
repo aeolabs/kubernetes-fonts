@@ -1,0 +1,115 @@
+font:
+    svg:        ./assets/kubefont.svg
+    ttf:        ./assets/kubefont.ttf
+    eot:        ./assets/kubefont.eot
+    woff:       ./assets/kubefont.woff
+    css:        ./assets/kubefont.css
+    html:       ./assets/kubefont.html
+    name:       kubefont
+    prefix:     kubefont
+    fixedwidth: false
+    height:     1000
+    descent:    150
+    normalize:  true
+    center:     true
+    round:      10e12
+glyphs:
+    - glyph:    ./svg/c-role.svg
+      name:     c-role
+      code:     0xE001
+    - glyph:    ./svg/cm.svg
+      name:     cm
+      code:     0xE002
+    - glyph:    ./svg/crb.svg
+      name:     crb
+      code:     0xE003
+    - glyph:    ./svg/crd.svg
+      name:     crd
+      code:     0xE004
+    - glyph:    ./svg/cronjob.svg
+      name:     cronjob
+      code:     0xE005
+    - glyph:    ./svg/deploy.svg
+      name:     deploy
+      code:     0xE006
+    - glyph:    ./svg/ds.svg
+      name:     ds
+      code:     0xE007
+    - glyph:    ./svg/ep.svg
+      name:     ep
+      code:     0xE008
+    - glyph:    ./svg/group.svg
+      name:     group
+      code:     0xE009
+    - glyph:    ./svg/hpa.svg
+      name:     hpa
+      code:     0xE010
+    - glyph:    ./svg/ing.svg
+      name:     ing
+      code:     0xE011
+    - glyph:    ./svg/job.svg
+      name:     job
+      code:     0xE012
+    - glyph:    ./svg/limits.svg
+      name:     limits
+      code:     0xE013
+    - glyph:    ./svg/netpol.svg
+      name:     netpol
+      code:     0xE014
+    - glyph:    ./svg/ns.svg
+      name:     ns
+      code:     0xE015
+    - glyph:    ./svg/pod.svg
+      name:     pod
+      code:     0xE016
+    - glyph:    ./svg/psp.svg
+      name:     psp
+      code:     0xE017
+    - glyph:    ./svg/pv.svg
+      name:     pv
+      code:     0xE018
+    - glyph:    ./svg/pvc.svg
+      name:     pvc
+      code:     0xE019
+    - glyph:    ./svg/quota.svg
+      name:     quota
+      code:     0xE020
+    - glyph:    ./svg/rb.svg
+      name:     rb
+      code:     0xE021
+    - glyph:    ./svg/role.svg
+      name:     role
+      code:     0xE022
+    - glyph:    ./svg/rs.svg
+      name:     rs
+      code:     0xE023
+    - glyph:    ./svg/sa.svg
+      name:     sa
+      code:     0xE024
+    - glyph:    ./svg/sc.svg
+      name:     sc
+      code:     0xE025
+    - glyph:    ./svg/secret.svg
+      name:     secret
+      code:     0xE026
+    - glyph:    ./svg/sts.svg
+      name:     sts
+      code:     0xE027
+    - glyph:    ./svg/svc.svg
+      name:     svc
+      code:     0xE028
+    - glyph:    ./svg/user.svg
+      name:     user
+      code:     0xE029
+    - glyph:    ./svg/vol.svg
+      name:     vol
+      code:     0xE030
+    - glyph:    ./svg/etcd.svg
+      name:     etcd
+      code:     0xE031
+    - glyph:    ./svg/control-plane.svg
+      name:     control-plane
+      code:     0xE032
+    - glyph:    ./svg/node.svg
+      name:     node
+      code:     0xE033
